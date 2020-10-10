@@ -8,4 +8,4 @@ https://developer.android.com/ndk/guides/concepts#na
 
 
 
-![Alt Text]()
+![Alt Text](https://github.com/pournimap/AndroidExamples/blob/main/NDK/PureNative/NativeActivity/NativeActivity.gif)
